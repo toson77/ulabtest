@@ -1,3 +1,4 @@
 print("Hello World")
 print("ulab test")
-print("hogehoge")
+print("hoge hoge")
+print("hoge")
